@@ -1,5 +1,5 @@
 ---
-title: "Networking Devices and Functions — TL;DR"
+title: "Networking Devices and Functions - TL;DR"
 date: 2025-09-24
 tags: [network, fundamentals]
 level: beginner
