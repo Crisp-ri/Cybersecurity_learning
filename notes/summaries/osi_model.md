@@ -38,5 +38,5 @@ level: begginer
 
 ---
 
-## Ream more
-- N/A
+## Read more
+- OSI model is considered foundational; no deep dive required.
