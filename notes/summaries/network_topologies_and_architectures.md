@@ -42,4 +42,4 @@ level: beginner
 
 ---
 ## Read more
-- N/A
+- Network topologies and architectures are considered foundational; no deep dive required.
