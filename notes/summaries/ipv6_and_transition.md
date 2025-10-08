@@ -127,3 +127,5 @@ NDP provides ICMPv6-based discovery of network routers.
 3. Run **DAD (Duplicate Address Detection)** to ensure address uniqueness before use.
 
 ---
+## Read more
+- planned.
