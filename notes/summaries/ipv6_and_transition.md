@@ -1,6 +1,6 @@
 ---
 title: "IPv6 Addressing - TL;DR"
-date: 2025-10-06
+date: 2025-10-08
 tags: [network, ipv6, addressing]
 level: intermediate
 ---
